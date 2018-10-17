@@ -6,17 +6,17 @@ title: Ruby
 
 Ruby was created by Yukihiro "Matz" Matsumoto and is an <a href='https://github.com/ruby/ruby' target='_blank' rel='nofollow'>open source</a>, dynamic and interpreted scripting language for quick and easy object-oriented programming. Which means:
 
-It's also known to have one of the <a href="https://www.ruby-lang.org/en/community/">largest and friendly community</a> among programming languages. 
+It's also known to have one of the <a href="https://www.ruby-lang.org/en/community/">largest and friendliest communities</a> among programming languages. 
 
-*   Ability to make operating system calls directly
+*   The ability to make operating system calls directly
 *   Immediate feedback during development
-*   Variable declarations are unnecessary
-*   Memory management is automatic
-*   Everything is an object
-*   Has "mixin" functionality by module
+*   Unecessary variable declarations
+*   Automatic memory management
+*   Object-oriented:Everything is an object
+*   "Mixin" functionality by module
 *   Iterators and closures
 
-If you are unfamiliar with some of the concepts above, read on, and don't worry. Ruby focus on simplicity and productivity with an elegant syntax that is natural to read and easy to write, like:
+If you are unfamiliar with some of the concepts above, read on, and don't worry. Ruby focuses on simplicity and productivity with an elegant syntax that is natural to read and easy to write, like:
 ```ruby
 # Quick example of Ruby with Object Oriented Programming
 class Greeter
@@ -62,7 +62,7 @@ IRB stands for Interactive Ruby Shell. The abbreviation irb comes from the fact 
 
 ## Ruby Interpreter
 
-The Ruby interpreter is what is used to run Ruby scripts. If it is available and in Unix shell’s search path makes it possible to start it by typing the command `ruby` followed by the script name will invoke the interpreter and run the script.
+The Ruby interpreter is what is used to run Ruby scripts. If it is available and in Unix shell’s search path, it makes it possible to start it by typing the command `ruby` followed by the script name, which will invoke the interpreter and run the script.
 
 `hello_campers.rb`
 
@@ -79,10 +79,10 @@ From command-line:
 ## Documentation
 
 Ruby is well <a href='https://www.ruby-lang.org/en/documentation/' target='_blank' rel='nofollow'>documented</a>. These docs include tutorials, guides, references and meta information for language.  
-Another important resouce for documentation is <a href='http://ruby-doc.org/core-2.3.0/' target='_blank' rel='nofollow'>Ruby Doc</a>. You should visit this <a href='https://github.com/airbnb/ruby' target='_blank' rel='nofollow'>link</a> to know more about Ruby style guide, written by developers of AirBnB.
+Another important resouce for documentation is <a href='http://ruby-doc.org/core-2.3.0/' target='_blank' rel='nofollow'>Ruby Doc</a>. You should visit this <a href='https://github.com/airbnb/ruby' target='_blank' rel='nofollow'>link</a> to know more about the Ruby style guide, written by developers of AirBnB.
 
 A recommended read for beginners in Ruby is <a href='https://poignant.guide/' target='_blank' rel='nofollow'>Why's (Poignant) Guide to Ruby</a>
-This book is unusual among programming books. With quite a lot of strange humor and narrative side tracks which are sometimes completely unrelated to the topic, this one manages to keep the readers entertained while they learn Ruby basics. 
+This book is unusual among programming books. With quite a lot of strange humor and narrative side tracks which are sometimes completely unrelated to the topic, this one manages to keep readers entertained while they learn Ruby basics. 
 
 ## Debugging
 
@@ -117,6 +117,7 @@ To write cross-platform native apps in Ruby, RUBY MOTION is used to develop cros
 More resources here: http://www.rubymotion.com/
 
 ## What after learning Ruby?
-Every programming language plays an imporatnt role . You can contribute to a lot of open source projects or you can apply for some big companies after having a good grasp on Ruby. As many big internet sites such as Basecamp, Airbnb, Bleacher Report, Fab.com, Scribd, Groupon, Gumroad, Hulu, Kickstarter, Pitchfork, Sendgrid, Soundcloud, Square, Yammer, Crunchbase, Slideshare, Funny or Die, Zendesk, Github, Shopify are build on Ruby so, there are plenty of option for you out there.
-Moreover, a lot of startups are hiring people who have skill in RUby on Rails as not many programmers try to learn Ruby. So,you might have a clear cut to work in a start-up company.
-So, Ruby is beginner friendly and is quite hard skill set to find you have a good number of openings to work as a developer.
+Every programming language plays an important role . You can contribute to a lot of open source projects, or you can apply to some big companies after having a good grasp on Ruby. There are many big internet sites such as Basecamp, Airbnb, Bleacher Report, Fab.com, Scribd, Groupon, Gumroad, Hulu, Kickstarter, Pitchfork, Sendgrid, Soundcloud, Square, Yammer, Crunchbase, Slideshare, Funny or Die, Zendesk, Github, Shopify- which are all built on Ruby. There are plenty of options for you out there.
+Moreover, a lot of startups are hiring people who are skilled in Ruby on Rails, as not many programmers try to learn Ruby. So, you might have a clear path to work in a start-up company.
+
+To sum up, Ruby is beginner-friendly, and because it is quite a hard skill set to find, you have a good number of openings to find work as a developer.
